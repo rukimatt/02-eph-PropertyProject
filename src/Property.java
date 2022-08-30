@@ -13,6 +13,10 @@ public class Property {
     public String getAddress(){
         return address;
     }
+
+    public double getSize() {
+        return width*length;
+    }
 }
 
 
