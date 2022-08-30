@@ -10,10 +10,10 @@ public class PropertyProject {
         Property p3= new Property("Erzbergerstraße 3",17, 24.444);
         System.out.println(p3.getAddress() + " - " + p3.getSize() + "m²");
 
-        Property p4= new Property("Erzbergerstraße 4",17, 24.444);
+        Property p4= new Property("Erzbergerstraße 4",5, 10.777);
         System.out.println(p4.getAddress() + " - " + p4.getSize() + "m²");
 
-        Property p5= new Property("Erzbergerstraße 5",17, 24.444);
+        Property p5= new Property("Erzbergerstraße 5",18, 26.474);
         System.out.println(p5.getAddress() + " - " + p5.getSize() + "m²");
 
     }
