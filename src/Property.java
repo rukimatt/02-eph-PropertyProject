@@ -9,6 +9,10 @@ public class Property {
         width = 10;
         length = 20.5;
     }
+
+    public String getAddress(){
+        return address;
+    }
 }
 
 
