@@ -13,7 +13,7 @@ public class PropertyProject {
         Property p4= new Property("Nocheinestraße 4",5, 10.777);
         System.out.println(p4.getAddress() + " - " + p4.getSize() + "m²");
 
-        Property p5= new Property("Yolostraße 5",18, 26.474);
+        Property p5= new Property("Yolostraße 5",7, 26.474);
         System.out.println(p5.getAddress() + " - " + p5.getSize() + "m²");
 
     }
